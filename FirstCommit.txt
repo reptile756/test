@@ -2,10 +2,11 @@
 // 2
 // Три
 /// 444
+/// privet
 public static void main(String[] args)
 {
   int i = 0;
   System.out.println("Привет мир"+i);
-  
+  satana kotyat ne bil
 }
 
